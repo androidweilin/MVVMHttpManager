@@ -8,8 +8,7 @@ import androidx.lifecycle.AndroidViewModel;
 import com.wl.mvvmhttpmanager.utils.TUtil;
 
 /**
- * @author freak
- * @date 2019/01/25
+ * @author wl
  */
 
 public class BaseViewModel<T extends AbstractRepository> extends AndroidViewModel {

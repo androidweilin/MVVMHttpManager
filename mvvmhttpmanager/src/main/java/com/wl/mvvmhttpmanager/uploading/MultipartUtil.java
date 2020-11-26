@@ -14,7 +14,7 @@ import okhttp3.ResponseBody;
 
 
 /**
- * @author Administrator
+ * @author wl
  */
 public class MultipartUtil {
 

@@ -13,7 +13,7 @@ import okio.Source;
 /**
  * 下载进度ResponseBody
  *
- * @author Administrator
+ * @author wl
  */
 public class HttpDownProgressResponseBody extends ResponseBody {
     private ResponseBody mResponseBody;

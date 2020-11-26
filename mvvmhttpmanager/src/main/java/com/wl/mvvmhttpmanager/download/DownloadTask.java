@@ -9,7 +9,7 @@ import java.io.File;
 import retrofit2.Call;
 
 /**
- * Created by Administrator on 2019/4/9.
+ * Created by wl
  */
 
 public class DownloadTask implements Runnable,ProgressListener {

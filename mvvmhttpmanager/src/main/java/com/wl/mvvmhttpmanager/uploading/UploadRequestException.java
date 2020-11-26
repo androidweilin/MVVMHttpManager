@@ -2,7 +2,7 @@ package com.wl.mvvmhttpmanager.uploading;
 
 
 /**
- * @author Administrator
+ * @author wl
  */
 public class UploadRequestException extends Exception {
 

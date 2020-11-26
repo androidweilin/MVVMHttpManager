@@ -2,8 +2,7 @@ package com.wl.mvvmhttpmanager.log;
 
 /**
  *
- * @author Administrator
- * @date 2019/3/11
+ * @author wl
  */
 
 public class JsonUtil {

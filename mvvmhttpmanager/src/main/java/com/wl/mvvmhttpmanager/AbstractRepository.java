@@ -12,8 +12,7 @@ import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.disposables.Disposable;
 
 /**
- * @author Freak
- * @date 2019/5/15
+ * @author wl
  */
 
 public abstract class AbstractRepository {

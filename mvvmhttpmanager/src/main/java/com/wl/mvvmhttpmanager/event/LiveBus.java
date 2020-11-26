@@ -25,10 +25,9 @@ import java.util.concurrent.ConcurrentHashMap;
  * Log.e("onChanged",((String)o));
  * }
  * });
- * * @author Freak
+ * * @author wl
  *
  * @Override
- * @date 2019/5/15
  */
 @SuppressWarnings("ALL")
 public class LiveBus {

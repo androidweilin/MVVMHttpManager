@@ -6,8 +6,7 @@ import java.lang.reflect.ParameterizedType;
 
 /**
  *
- * @author Freak
- * @date 2019/5/15
+ * @author wl
  */
 
 @SuppressWarnings("ALL")

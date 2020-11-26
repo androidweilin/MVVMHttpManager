@@ -2,8 +2,7 @@ package com.wl.mvvmhttpmanager;
 
 /**
  * 自定义api异常
- * @author freak
- * @date 2019/01/25
+ * @author wl
  */
 public class ApiException extends RuntimeException {
     public ApiException(String detailMessage) {

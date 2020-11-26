@@ -1,7 +1,7 @@
 package com.wl.mvvmhttpmanager.download;
 
 /**
- * Created by Administrator on 2019/4/13.
+ * Created by wl
  */
 
 public class DownTaskMethods {

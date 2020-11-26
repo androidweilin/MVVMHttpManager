@@ -34,7 +34,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 /**
  * 下载助手
  *
- * @author Administrator
+ * @author wl
  */
 public class HttpDownMethods {
     /**

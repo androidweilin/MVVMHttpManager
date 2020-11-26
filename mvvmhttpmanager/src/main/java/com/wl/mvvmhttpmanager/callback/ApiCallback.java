@@ -1,8 +1,7 @@
 package com.wl.mvvmhttpmanager.callback;
 
 /**
- * @author freak
- * @date 2019/01/25
+ * @author wl
  */
 public interface ApiCallback<T> {
     /**

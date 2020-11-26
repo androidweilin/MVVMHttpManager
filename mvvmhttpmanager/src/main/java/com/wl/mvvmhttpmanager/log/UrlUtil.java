@@ -3,7 +3,7 @@ package com.wl.mvvmhttpmanager.log;
 import java.io.UnsupportedEncodingException;
 
 /**
- * Created by Administrator on 2019/4/3.
+ * Created by wl
  */
 
 public class UrlUtil {

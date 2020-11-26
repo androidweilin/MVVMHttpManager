@@ -25,8 +25,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 /**
  * okHttp请求类封装
  *
- * @author freak
- * @date 2019/01/25
+ * @author wl
  */
 public class HttpMethods {
     private static CompositeDisposable mCompositeDisposable;

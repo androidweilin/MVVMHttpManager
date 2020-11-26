@@ -14,8 +14,7 @@ import io.reactivex.disposables.Disposable;
 
 
 /**
- * @author freak
- * @date 2019/01/25
+ * @author wl
  */
 public class SubscriberCallBack<T> implements Observer<T> {
     private ApiCallback<T> apiCallback;

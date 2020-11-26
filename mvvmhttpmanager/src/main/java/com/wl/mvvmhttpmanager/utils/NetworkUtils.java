@@ -7,8 +7,7 @@ import android.net.NetworkInfo;
 
 
 /**
- * @author Freak
- * @date 2019/5/15
+ * @author wl
  */
 public class NetworkUtils {
 

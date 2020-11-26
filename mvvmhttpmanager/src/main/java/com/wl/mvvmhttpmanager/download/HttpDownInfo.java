@@ -1,7 +1,7 @@
 package com.wl.mvvmhttpmanager.download;
 
 /**
- * @author Administrator
+ * @author wl
  */
 public class HttpDownInfo {
     /**

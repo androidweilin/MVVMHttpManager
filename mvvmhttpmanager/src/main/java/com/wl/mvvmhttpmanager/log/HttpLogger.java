@@ -7,8 +7,7 @@ import com.wl.mvvmhttpmanager.HttpMethods;
 import okhttp3.logging.HttpLoggingInterceptor;
 
 /**
- * @author freak
- * @date 2019/3/11
+ * @author wl
  */
 
 public class HttpLogger implements HttpLoggingInterceptor.Logger {

@@ -8,7 +8,7 @@ import okhttp3.Response;
 /**
  * 下载拦截器
  *
- * @author Administrator
+ * @author wl
  */
 public class HttpDownInterceptor implements Interceptor {
     private ProgressListener mProgressListener;

@@ -3,7 +3,7 @@ package com.wl.mvvmhttpmanager.log;
 import okhttp3.logging.HttpLoggingInterceptor;
 
 /**
- * Created by Administrator on 2019/4/19.
+ * Created by wl
  */
 
 public class LoggerLevel {

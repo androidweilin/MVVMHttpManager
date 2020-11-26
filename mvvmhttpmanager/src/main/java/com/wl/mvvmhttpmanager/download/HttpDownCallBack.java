@@ -10,7 +10,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Consumer;
 
 /**
- * @author Administrator
+ * @author wl
  */
 public class HttpDownCallBack<T> implements Observer<T>, ProgressListener {
     private HttpDownListener mHttpDownListener;

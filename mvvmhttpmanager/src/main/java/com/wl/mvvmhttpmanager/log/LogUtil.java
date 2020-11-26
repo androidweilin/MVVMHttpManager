@@ -9,8 +9,7 @@ import com.orhanobut.logger.PrettyFormatStrategy;
 
 /**
  *
- * @author freak
- * @date 2019/03/12
+ * @author wl
  * Log日志工具，封装logger
  */
 public class LogUtil {

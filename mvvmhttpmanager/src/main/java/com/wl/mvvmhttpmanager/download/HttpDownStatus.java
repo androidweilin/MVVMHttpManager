@@ -3,7 +3,7 @@ package com.wl.mvvmhttpmanager.download;
 /**
  * 下载状态
  *
- * @author Administrator
+ * @author wl
  */
 public class HttpDownStatus {
     /**

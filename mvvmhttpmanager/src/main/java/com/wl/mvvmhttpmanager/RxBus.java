@@ -7,8 +7,7 @@ import io.reactivex.subjects.Subject;
 
 /**
  * RxBus event
- * @author freak
- * @date 2019/01/25
+ * @author wl
  */
 public class RxBus {
     private static volatile RxBus defaultInstance;

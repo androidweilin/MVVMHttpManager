@@ -11,8 +11,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * @author Freak
- * @date 2019/5/15.
+ * @author wl
  */
 
 public class RxSchedulers {

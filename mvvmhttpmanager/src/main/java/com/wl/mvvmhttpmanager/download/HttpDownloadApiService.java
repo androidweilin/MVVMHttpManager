@@ -8,7 +8,7 @@ import retrofit2.http.Streaming;
 import retrofit2.http.Url;
 
 /**
- * @author Administrator
+ * @author wl
  */
 public interface HttpDownloadApiService {
     @Streaming

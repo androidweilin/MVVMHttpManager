@@ -13,8 +13,7 @@ import retrofit2.HttpException;
 
 
 /**
- * @author freak
- * @date 2019/01/25
+ * @author wl
  */
 public class DisposableSubscriberCallBack<T> extends DisposableSubscriber<T> {
     private ApiCallback<T> apiCallback;
